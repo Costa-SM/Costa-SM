@@ -1,4 +1,4 @@
-### Software Developer mainly interested in robotics.
+### Computer engineering bachelor student, mainly interested in robotics.
 
 ![Stevenson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Costa-SM&show_icons=true&theme=tokyonight&count_private=true)
  
