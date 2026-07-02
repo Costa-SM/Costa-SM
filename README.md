@@ -7,14 +7,6 @@
   <a href="mailto:arthurcstevenson@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ML%20Infrastructure-222222?style=for-the-badge" alt="ML Infrastructure" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-222222?style=for-the-badge" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Performance%20Engineering-222222?style=for-the-badge" alt="Performance Engineering" />
-</p>
-
----
-
 ## About Me
 
 I spend most of my time around ML infrastructure and LLM data systems. Although most of the time I spent until now has been in CPU-land, I am gradually moving deeper into GPU/model performance profiling.
@@ -40,19 +32,6 @@ Performance work          Profiling, bottleneck hunting, CPU/GPU efficiency
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=costa-sm&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-## Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,gcp,docker,kubernetes,terraform,rust,cpp,c,linux,git,githubactions" alt="Tools and languages" />
-</p>
-
-```text
-Daily-ish       Python, Ray, Polars, DuckDB, PyTorch, GCP
-Infra           Terraform, Docker, Kubernetes, CI/CD
-Profiling       Nsight Systems, Nsight Compute, PyTorch Profiler, Linux tools
-Observability   OpenTelemetry, Prometheus, Grafana
-Lower-level     Rust, C, C++, embedded systems
-```
 
 ## Things I Like Thinking About
 
