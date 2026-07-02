@@ -1,6 +1,4 @@
-<p align="center">
-  ML infrastructure engineer interested in LLM systems, distributed data processing, performance engineering, and low-level systems work.
-</p>
+ML infrastructure engineer interested in LLM systems, distributed data processing, performance engineering, and low-level systems work.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthurcstevenson">LinkedIn</a> ·
