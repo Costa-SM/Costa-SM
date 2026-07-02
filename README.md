@@ -20,21 +20,3 @@ ML infrastructure         LLM preprocessing, data pipelines, inference workloads
 Distributed processing    Ray, DuckDB, Polars, GCP, spot/preemptible infrastructure
 Performance work          Profiling, bottleneck hunting, CPU/GPU efficiency
 ```
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=costa-sm&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa-sm&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=costa-sm&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-
-## Things I Like Thinking About
-
-- How to make ML pipelines faster without making them impossible to operate.
-- How to process large datasets cheaply and reliably.
-- How model inference performance actually behaves under real workloads.
